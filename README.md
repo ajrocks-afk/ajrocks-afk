@@ -14,4 +14,3 @@ I am a second-year **Electronics and Telecommunication Engineering** student �
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
